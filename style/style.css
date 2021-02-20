@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(188, 188, 209);
+    font-family:Arial ,sans-serif, 'Arial Narrow';
+}
+nav {
+    width: 100%;
+    border: 8px solid black;  
+}
+nav a {
+    padding-right: 5px;
+    border: 1px solid springgreen
+}
+
+nav img {
+    padding-left: 5px;
+    padding-right:5px;
+    width: 20%;
+}
+article dt {
+    border: 1px solid springgreen
+
+}
+section h2 {
+    border: 1px solid springgreen
+
+
+}
+footer {
+    border: 8px solid black;
+
+}
+footer article  {
+    border: 3px solid black;
+}
+footer img {
+    width: 15%;
+}
+
+    
+
